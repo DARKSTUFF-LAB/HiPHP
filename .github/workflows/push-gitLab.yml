@@ -1,6 +1,6 @@
 name: Push To GitLab
 
-on: [push]
+on: [push
 
 jobs:
   build:
