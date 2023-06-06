@@ -129,10 +129,10 @@ Security is a top priority for HIPHP, with regular updates ensuring compatibilit
 
 ```bash
 # Download hiphp from github:
-❯ git clone https://github.com/yasserbdj96/hiphp.git
+❯ git clone https://github.com/DARKSTUFF-LAB/HiPHP.git
 # OR
 # Download hiphp from gitlab:
-❯ git clone https://gitlab.com/yasserbdj96/hiphp.git
+❯ git clone https://github.com/DARKSTUFF-LAB/HiPHP.git
 ```
 
 <br>
